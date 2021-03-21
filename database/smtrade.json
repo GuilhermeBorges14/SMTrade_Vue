@@ -1,0 +1,216 @@
+{
+  "transaction": [
+    {
+      "comprador_id": "gui@gui.com",
+      "vendedor_id": "gui@gui.com",
+      "product": {
+        "id": "Computador",
+        "name": "Computador",
+        "user_id": "gui@gui.com",
+        "price": "1000,00",
+        "sold": "false",
+        "description": "Pc gamer",
+        "photos": null
+      },
+      "fullAdress": {
+        "cep": "365",
+        "rua": "",
+        "numero": "35",
+        "bairro": "Olaria",
+        "cidade": "Lorena",
+        "estado": "SP"
+      },
+      "id": 1
+    },
+    {
+      "comprador_id": "gui@gui.com",
+      "vendedor_id": "gui@gui.com",
+      "product": {
+        "id": "Computador",
+        "name": "Computador",
+        "user_id": "gui@gui.com",
+        "price": "1000,00",
+        "sold": "false",
+        "description": "Pc gamer",
+        "photos": null
+      },
+      "fullAdress": {
+        "cep": "12605000",
+        "rua": "",
+        "numero": "35",
+        "bairro": "Olaria",
+        "cidade": "Lorena",
+        "estado": "SP"
+      },
+      "id": 3
+    },
+    {
+      "comprador_id": "maria@maria",
+      "vendedor_id": "maria@maria",
+      "product": {
+        "name": "Mouse",
+        "price": "50",
+        "description": "RGB",
+        "photos": null,
+        "sold": "false",
+        "user_id": "maria@maria",
+        "id": "25Qgwg4"
+      },
+      "fullAdress": {
+        "cep": "12600020",
+        "rua": "Rua Major Oliveira Borges",
+        "numero": "96",
+        "bairro": "Centro",
+        "cidade": "Lorena",
+        "estado": "SP"
+      },
+      "id": 4
+    }
+  ],
+  "user": [
+    {
+      "id": "gui@gui.com",
+      "name": "Guilherme Borges",
+      "fantasyName": "Gui-LTDA",
+      "email": "gui@gui.com",
+      "senha": "123",
+      "tell": "3154-8963",
+      "cnpj": "11111",
+      "cep": "365",
+      "adress": "",
+      "number": "35",
+      "neigh": "Olaria",
+      "city": "Lorena",
+      "state": "SP",
+      "owner": "Luiz",
+      "adrees": "Rua vinte"
+    },
+    {
+      "id": "maria@maria",
+      "name": "Maria Entreterimentos",
+      "fantasyName": "Maria- LTDA",
+      "email": "maria@maria",
+      "senha": "123",
+      "tell": "3562-6593",
+      "cnpj": "65923",
+      "cep": "12600020",
+      "adress": "Rua Major Oliveira Borges",
+      "number": "96",
+      "neigh": "Centro",
+      "city": "Lorena",
+      "state": "SP",
+      "owner": "Maria",
+      "adrees": "Rua vinte"
+    }
+  ],
+  "product": [
+    {
+      "id": "Computador",
+      "name": "Computador",
+      "user_id": "gui@gui.com",
+      "price": "1000,00",
+      "sold": "false",
+      "description": "Pc gamer",
+      "photos": null
+    },
+    {
+      "id": "Celular",
+      "name": "Celular",
+      "user_id": "gui@gui.com",
+      "price": "500,00",
+      "sold": "false",
+      "description": "Samsung",
+      "photos": null
+    },
+    {
+      "name": "Notebook",
+      "price": "450",
+      "description": "Dell",
+      "photos": null,
+      "sold": "false",
+      "user_id": "gui@gui.com",
+      "id": "2cXWf1w"
+    },
+    {
+      "name": "Cadeira",
+      "price": "1700",
+      "description": "Cadeira Gamer",
+      "photos": null,
+      "sold": "false",
+      "user_id": "gui@gui.com",
+      "id": "-xoIJsb"
+    },
+    {
+      "name": "Televisão",
+      "price": "3000",
+      "description": "LG",
+      "photos": null,
+      "sold": "false",
+      "user_id": "gui@gui.com",
+      "id": "qYFfy3D"
+    },
+    {
+      "name": "Mesa",
+      "price": "2500",
+      "description": "Mesa gamer",
+      "photos": null,
+      "sold": "false",
+      "user_id": "gui@gui.com",
+      "id": "ciayiqd"
+    },
+    {
+      "name": "Caixa de som",
+      "price": "1250",
+      "description": "Caixa de som 3W",
+      "photos": null,
+      "sold": "false",
+      "user_id": "maria@maria",
+      "id": "Qfb5xdv"
+    },
+    {
+      "name": "Carteira de couro",
+      "price": "35",
+      "description": "Feita sob medida",
+      "photos": null,
+      "sold": "false",
+      "user_id": "maria@maria",
+      "id": "OkH01EE"
+    },
+    {
+      "name": "Placa-mãe",
+      "price": "1790",
+      "description": "Gigabyte Aorus",
+      "photos": null,
+      "sold": "false",
+      "user_id": "maria@maria",
+      "id": "KalfkqB"
+    },
+    {
+      "name": "Cama",
+      "price": "1000",
+      "description": "Cama de solteiro",
+      "photos": null,
+      "sold": "false",
+      "user_id": "maria@maria",
+      "id": "NeRRkZR"
+    },
+    {
+      "name": "Guarda roupa",
+      "price": "1230",
+      "description": "Possui 04 portas",
+      "photos": null,
+      "sold": "false",
+      "user_id": "maria@maria",
+      "id": "Az_8GH8"
+    },
+    {
+      "name": "Mouse",
+      "price": "50",
+      "description": "RGB",
+      "photos": null,
+      "sold": "false",
+      "user_id": "maria@maria",
+      "id": "25Qgwg4"
+    }
+  ]
+}
